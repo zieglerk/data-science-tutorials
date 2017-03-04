@@ -1,6 +1,6 @@
 # data-science-tutorials
 
-This repository containsn jupyter-notebooks to accompany the tutorials for our data science lectures. The following topics are covered (each within a separate folder).
+This repository contains jupyter-notebooks to accompany the tutorials for our data science lectures. The following topics are covered (each within a separate folder).
 
 1. Dataset Visualization (Boston Housing minus the linear regression; also other datasets like Flower, MNIST-digits, 20newsgroups)
 2. Clustering
