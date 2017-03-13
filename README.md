@@ -9,5 +9,15 @@ also other datasets like Flower, MNIST-digits, 20newsgroups) working/visualizing
 4. Regression (linear regression from Boston Housing and Car Prices)
 5. Classification with Decision Trees (start with small 5-line dataset)
 6. Neural Networks (use keras.io to build a neural network for
-MNIST-digit classification) keras (for MNIST class); OPT gensim (for word2vec; pick dataset from tensorflow)
+MNIST-digit classification) keras (for MNIST class); OPT gensim (for
+	word2vec; pick dataset from tensorflow); then auto-encoder for
+	representatino learning
 7. MapReduce
+
+# Requirements
+
+- Python (>= 2.7 or >= 3.3)
+- NumPy (>= 1.6.1)
+- SciPy (>= 0.9)
+- scikit-learn (>=0.18.1)
+- Matplotlib >= 1.1.1 
