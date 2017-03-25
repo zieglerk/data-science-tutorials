@@ -14,10 +14,26 @@ MNIST-digit classification) keras (for MNIST class); OPT gensim (for
 	representatino learning
 7. MapReduce
 
-# Requirements
+# Packages
+i
+See our python-tutorials on instructions how to set this up on your
+machine.
+
+## required
 
 - Python (>= 2.7 or >= 3.3)
 - NumPy (>= 1.6.1)
 - SciPy (>= 0.9)
-- scikit-learn (>=0.18.1)
-- Matplotlib >= 1.1.1 
+- scikit-learn (>=0.18.1);
+  [documentation](http://scikit-learn.org/stable/documentation.html),
+  also as
+  [pdf](http://scikit-learn.org/dev/_downloads/scikit-learn-docs.pdf)
+  with [Quick
+  Start](http://scikit-learn.org/stable/tutorial/basic/tutorial.html) and
+  [Tutorials](http://scikit-learn.org/stable/tutorial/)
+- Matplotlib >= 2.1.1
+
+## optional
+
+- Pandas; [documentation] also as
+  [pdf](http://pandas.pydata.org/pandas-docs/version/0.18.1/pandas.pdf)
