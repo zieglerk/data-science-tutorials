@@ -7,16 +7,17 @@ also other datasets like Flower, MNIST-digits, 20newsgroups) working/visualizing
 2. Clustering
 3. Association Rule Learning (dataset yet to be determined; preferably from scikit learn)
 4. Regression (linear regression from Boston Housing and Car Prices)
-5. Classification with Decision Trees (start with small 5-line dataset)
-6. Neural Networks (use keras.io to build a neural network for
+5. Bayes Learning (for spam filtering/text classification) 
+6. Classification with Decision Trees (start with small 5-line dataset)
+7. Neural Networks (use keras.io to build a neural network for
 MNIST-digit classification) keras (for MNIST class); OPT gensim (for
 	word2vec; pick dataset from tensorflow); then auto-encoder for
 	representatino learning
-7. MapReduce
+8. OPTIONAL MapReduce
 
 # Packages
-i
-See our python-tutorials on instructions how to set this up on your
+
+See our [python-tutorials](https://github.com/zieglerk/python-tutorials) on instructions how to set this up on your
 machine.
 
 ## required
