@@ -1,6 +1,3 @@
-### Flug
-There is still an error in the last cell in the notebook 5-II.ML-and-DM-Example-DecisionTree
-
 # data-science-tutorials
 
 This repository contains jupyter-notebooks to accompany the tutorials for our data science lectures. The following topics are covered (each within a separate folder).
