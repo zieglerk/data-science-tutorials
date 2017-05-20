@@ -33,7 +33,8 @@ machine.
   Start](http://scikit-learn.org/stable/tutorial/basic/tutorial.html) and
   [Tutorials](http://scikit-learn.org/stable/tutorial/)
 - Matplotlib >= 2.1.1
-
+- Keras >= 1.1.0
+- TensorFlow >= 0.10.0
 ## optional
 
 - Pandas; [documentation] also as
