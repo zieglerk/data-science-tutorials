@@ -1,0 +1,526 @@
+| The content of this file and the matching data file are confidential
+| to Blue Martini Software and Gazelle.com
+| Right to use is restricted by the NDA agreement for the KDD-CUP 2000
+| For questions, e-mail kddcup2000@bluemartini.com
+|
+| C5.0 names file 
+|
+Spend over $12 per order on average. | target column
+WhichDoYouWearMostFrequent: trouser socks,hosiery,casual socks,athletic socks.
+YourFavoriteLegcareBrand: eShave,Lucky Chick,VeinGard,Tweezerman,Swiss Balance,Ovacion,Covermark,Ya Babi,Medea,Dr\. Perricone,TendSkin,IColoniali,Dr\. Schon,Nature Made,Bio Depiless,Conair,Natural Line,Kleb Sole,Living Earth,Cellasene,DailyHerbs,Kneipp,Juvena,Epilady.
+Registration Gender: Female,Male.
+NumberOfChildren: [ordered] 0, 1, 2, 3, 4 or more.
+DoYouPurchaseForOthers: NULL,False.
+HowDoYouDressForWork: business dress,business casual,comfortable / athletic,very casual.
+HowManyPairsDoYouPurchase: [ordered] 1 to 5, 6 to 10, 11 to 15, 15 or more.
+YourFavoriteLegwearBrand: Ellen Tracy,Oroblu,Belly Basics,American Essentials,Danskin,Hot Sox,Donna Karan,Evan Picone,Givenchy,Greg Norman,DKNY,Hanes,Round the Clock,Falke,Berkshire.
+WhoMakesPurchasesForYou: parent,spouse,siblings,friend.
+NumberOfAdults: [ordered] 0, 1, 2, 3 or more.
+HowDidYouHearAboutUs: in the news,e-mail,print ad,direct mail,other,friend / family.
+Company: COMPANY 2605,COMPANY 416,COMPANY 2975,COMPANY 3051,COMPANY 780,COMPANY 3055,COMPANY 1608,COMPANY 3059,COMPANY 2575,COMPANY 2330,COMPANY 1169,COMPANY 1207,COMPANY 1209,COMPANY 2982,COMPANY 1571,COMPANY 1733,COMPANY 1737,COMPANY 1455,COMPANY 796,COMPANY 673,COMPANY 713,COMPANY 395,COMPANY 2183,COMPANY 2870,COMPANY 3070,COMPANY 1587,COMPANY 1626,COMPANY 842,COMPANY 2479,COMPANY 445,COMPANY 2235,COMPANY 2882,COMPANY 2922,COMPANY 3089,COMPANY 613,COMPANY 452,COMPANY 615,COMPANY 617,COMPANY 1085,COMPANY 1086,COMPANY 2092,COMPANY 503,COMPANY 1932,COMPANY 2258,COMPANY 1935,COMPANY 1658,COMPANY 594,COMPANY 1258,COMPANY 1099,COMPANY 2262,COMPANY 1944,COMPANY 519,COMPANY 920,COMPANY 3032,COMPANY 3036,COMPANY 2678,COMPANY 482,COMPANY 2273,COMPANY 1792,COMPANY 402,COMPANY 409,NULL,COMPANY 2963,COMPANY 2682,COMPANY 1273,COMPANY 933.
+SendEmail: NULL,True,False.
+HowOftenDoYouPurchase: [ordered] once a year, every 6 months, each week.
+HowDidYouFindUs: Web/Banner Ad,News Story,Search Engine,Friend/Co-worker,Magazine Ad,Other.
+City: ignore.
+Country: United States,NULL.
+US State: IA,ID,IL,IN,AK,AL,AR,RI,AZ,SC,CA,KS,CO,KY,CT,LA,TN,DC,DE,TX,MA,MD,ME,MI,UT,MN,MO,MS,MT,VA,NC,ND,NE,NH,NJ,VT,NM,FL,NV,WA,NY,WI,OH,GA,OK,WV,WY,OR,PA,HI.
+Account Creation Date: date.
+Account Creation Date_Time: time.
+Year of Birth: continuous.
+Email: NET,GOV,COM,EDU,ORG,Gazelle,Other,NULL.
+Login Failure Count: continuous.
+Customer ID: continuous.
+Truck Owner: NULL,True,False.
+RV Owner: NULL,True,False.
+Motorcycle Owner: NULL,True,False.
+Value Of All Vehicles: continuous.
+Age: continuous.
+Other Indiv\. Age: continuous.
+Marital Status: Inferred Married,Single,Inferred Single,Married,NULL.
+Working Woman: NULL,True,False.
+Mail Responder: NULL,True,False.
+Bank Card Holder: NULL,True,False.
+Gas Card Holder: NULL,True,False.
+Upscale Card Holder: NULL,True,False.
+Unknown Card Type: NULL,True,False.
+TE Card Holder: NULL,True,False.
+Premium Card Holder: NULL,True,False.
+Presence Of Children: NULL,True,False.
+Number Of Adults: continuous.
+Estimated Income Code: [ordered] Under $15;000, $15;000-$19;999, $20;000-$29;999, $30;000-$39;999, $40;000-$49;999, $50;000-$74;999, $75;000-$99;999, $100;000-$124;999, $125;000 OR MORE.
+Home Market Value: [ordered] $1;000-$24;999, $25;000-$49;999, $50;000-$74;999, $75;000-$99;999, $100;000-$124;999, $125;000-$149;999, $150;000-$174;999, $175;000-$199;999, $200;000-$224;999, $225;000-$249;999, $250;000-$274;999, $275;000-$299;999, $300;000-$349;999, $350;000-$399;999, $400;000-$449;999, $450;000-$499;999, $500;000-$774;999, $775;000-$999;999, $1;000;000+.
+New Car Buyer: NULL,True.
+Vehicle Lifestyle: FULL SIZE (STANDARD/LUXURY),IMPORT (STANDARD/ECONOMY),SPECIALTY (MIDSIZE/SMALL),PERSONAL LUXURY CAR,STATION WAGON,REGULAR (MIDSIZE/SMALL),TRUCK OR UTILITY VEHICLE,NULL.
+Property Type: apartment(5+ units),2-4 unit(duplex;triplex;quad),mobile_home,misc\. residential (condo store/flat),single family dwelling,NULL,condo.
+Loan To Value Percent: [ordered] 0% (NO LOANS), 01-49%, 50-59%, 60-69%, 70-74%, 75-79%, 80-84%, 85-89%, 90-94%, 95-99%, 100-99%.
+Presence Of Pool: NULL,True,False.
+Year House Was Built: continuous.
+Own Or Rent Home: Owner,NULL,Renter.
+Length Of Residence: continuous.
+Mail Order Buyer: NULL,True,False.
+Year Home Was Bought: continuous.
+Home Purchase Date: continuous.
+Number Of Vehicles: continuous.
+DMA No Mail Solicitation Flag: NULL,True.
+DMA No Phone Solicitation Flag: NULL,True.
+CRA Income Classification: continuous.
+New Bank Card: NULL,True,False.
+Number Of Credit Lines: continuous.
+Speciality Store Retail: NULL,True,False.
+Oil Retail Activity: NULL,True,False.
+Bank Retail Activity: NULL,True,False.
+Finance Retail Activity: NULL,True,False.
+Miscellaneous Retail Activity: NULL,True,False.
+Upscale Retail: NULL,True,False.
+Upscale Speciality Retail: NULL,True,False.
+Retail Activity: NULL,True,False.
+Last Retail Date: date.
+Last Retail Date_Time: time.
+Dwelling Size: [ordered] SINGLE HOUSEHOLD, 2 HOUSEHOLDS, 3 HOUSEHOLDS, 4 HOUSEHOLDS, 5 HOUSEHOLDS, 6 HOUSEHOLDS, 7 HOUSEHOLDS, 8 HOUSEHOLDS, 9 HOUSEHOLDS, 10-19 HOUSEHOLDS, 20-29 HOUSEHOLDS, 30-39 HOUSEHOLDS, 40-49 HOUSEHOLDS, 50-99 HOUSEHOLDS, 100+ HOUSEHOLDS.
+Dataquick Market Code: continuous.
+Lendable Home Equity: [ordered] EQUITY LESS THAN OR EQUAL $0, EQUITY $1-$4;999, EQUITY $5;000-$9;999, EQUITY $10;000-$19;9999, EQUITY $20;000-$29;000, EQUITY $30;000-$49;000, EQUITY $50;000-$74;000, EQUITY $75;000-$99;999, EQUITY $100;000-$149;999, EQUITY $150;000-$199;999, EQUITY $200;000-$249;999, EQUITY $250;000-$299;999, EQUITY $300;000-$349;999, EQUITY $350;000-$399;999, EQUITY $400;000-$499;999, EQUITY $500;000-$749;999, EQUITY $750;000-$999;999, EQUITY $1;000;000-1;999;999, EQUITY GREATER THAN OR EQUAL $2;000;000.
+Home Size Range: [ordered] LESS THAN 750 FT, 750-999 FT, 1;000-1;249 FT, 1;250-1;499 FT, 1;500-1;749 FT, 1;750-1;999 FT, 2;000-2;499 FT, 2;500-2;999 FT, 3;000-3;499 FT, 3;500-3;999 FT, 4;000-4;999 FT, 5;000-5;999 FT, 6;000-6;999 FT, 7;000 FT AND OVER.
+Lot Size Range: [ordered] 1 ACRE OR LESS, GREATER THAN 1 ACRE.
+Insurance Expiry Month: continuous.
+Dwelling Unit Size: SINGLE FAMILY DWELLING UNIT,MULTI FAMILY DWELLING UNIT,NULL.
+Month Home Was Bought: continuous.
+Household Status: NAME APPEARING ON INPUT IS INDIVIDUAL 1,NAME APPEARING ON INPUT IS INDIVIDUAL 2,NULL.
+Available Home Equity: [ordered] EQUITY $1-$4;999, EQUITY $5;000-$9;999, EQUITY $10;000-$19;9999, EQUITY $20;000-$29;000, EQUITY $30;000-$49;000, EQUITY $50;000-$74;000, EQUITY $75;000-$99;999, EQUITY $100;000-$149;999, EQUITY $150;000-$199;999, EQUITY $200;000-$249;999, EQUITY $250;000-$499;999, EQUITY $500;000-$749;999, EQUITY $750;000-$999;999, EQUITY $1;000;000-1;999;999, EQUITY $2;000;000 AND OVER.
+Minority Census Tract: NULL,True,False.
+Verification Date: date.
+Verification Date_Time: ignore.
+Year Of Structure: continuous.
+Gender: Female,Male,NULL.
+Occupation: SALES/SERVICE,PROFESSIONAL/TECHNICAL,SELF EMPLOYED MANAGEMENT,MILITARY,HOUSEWIFE,CRAFTSMAN/BLUE COLLAR,STUDENT,ADMINISTRATIVE/MANAGERIAL,SELF EMPLOYED PROF/TECH,RETIRED,SELF EMPLOYED SALES/MARKETING,SELF EMPLOYED,OTHER,SELF EMPLOYED BLUE COLLAR,NULL,SELF EMPLOYED CLERICAL,SELF EMPLOYED HOMEMAKER,CLERICAL/WHITE COLLAR.
+Other Indiv\. Gender: Female,Male,NULL.
+Other Indiv\. Occupation: SALES/SERVICE,PROFESSIONAL/TECHNICAL,SELF EMPLOYED MANAGEMENT,SELF EMPLOYED RETIRED,HOUSEWIFE,CRAFTSMAN/BLUE COLLAR,STUDENT,ADMINISTRATIVE/MANAGERIAL,SELF EMPLOYED PROF/TECH,RETIRED,SELF EMPLOYED,SELF EMPLOYED SALES/MARKETING,SELF EMPLOYED BLUE COLLAR,NULL,CLERICAL/WHITE COLLAR.
+Order Amount Sum Percent Submitted: continuous.
+Order Amount Sum Percent Complete: continuous.
+Order Amount Sum Percent In process: continuous.
+Order Amount Sum Percent Using VISA: continuous.
+Order Amount Sum Percent Using MC: continuous.
+Order Amount Sum Percent Using AMEX: continuous.
+Order Amount Sum Percent On Thursday: continuous.
+Order Amount Sum Percent On Saturday: continuous.
+Order Amount Sum Percent On Tuesday: continuous.
+Order Amount Sum Percent On Sunday: continuous.
+Order Amount Sum Percent On Wednesday: continuous.
+Order Amount Sum Percent On Friday: continuous.
+Order Amount Sum Percent On Monday: continuous.
+Percent Of Products Purchased On Thursday: continuous.
+Percent Of Products Purchased On Saturday: continuous.
+Percent Of Products Purchased On Tuesday: continuous.
+Percent Of Products Purchased On Sunday: continuous.
+Percent Of Products Purchased On Wednesday: continuous.
+Percent Of Products Purchased On Friday: continuous.
+Percent Of Products Purchased On Monday: continuous.
+Order Amount Sum Percent During 6pm-12pm: continuous.
+Order Amount Sum Percent During 3am-7am: continuous.
+Order Amount Sum Percent During 12am-3am: continuous.
+Order Amount Sum Percent During 3pm-6pm: continuous.
+Order Amount Sum Percent During 11am-3pm: continuous.
+Order Amount Sum Percent During 7am-11am: continuous.
+Percentage Of Products Purchased At Local Hour of Day Bin 6pm-12pm: continuous.
+Percentage Of Products Purchased At Local Hour of Day Bin 3am-7am: continuous.
+Percentage Of Products Purchased At Local Hour of Day Bin 12am-3am: continuous.
+Percentage Of Products Purchased At Local Hour of Day Bin 3pm-6pm: continuous.
+Percentage Of Products Purchased At Local Hour of Day Bin 11am-3pm: continuous.
+Percentage Of Products Purchased At Local Hour of Day Bin 7am-11am: continuous.
+Order Line Amount Sum Percent AmericanEssentials: continuous.
+Order Line Amount Sum Percent Hanes: continuous.
+Order Line Amount Sum Percent HotSox: continuous.
+Order Line Amount Sum Percent EllenTracy: continuous.
+Order Line Amount Sum Percent Danskin: continuous.
+Order Line Amount Sum Percent DKNY: continuous.
+Order Line Amount Sum Percent EvanPicone: continuous.
+Order Line Amount Sum Percent NicoleMiller: continuous.
+Order Line Amount Sum Percent Berkshire: continuous.
+Order Line Amount Sum Percent DonnaKaran: continuous.
+Order Line Amount Sum Percent Oroblu: continuous.
+Order Line Amount Sum Percent Legwear: continuous.
+Order Line Amount Sum Percent LegCare: continuous.
+Percentage Legwear_size 3x-4x Purchased: continuous.
+Percentage Legwear_size Q-Petite Purchased: continuous.
+Percentage Legwear_size 1/2 Purchased: continuous.
+Percentage Legwear_size AB Purchased: continuous.
+Percentage Legwear_size 5x-6x Purchased: continuous.
+Percentage Legwear_size 1 Purchased: continuous.
+Percentage Legwear_size 2 Purchased: continuous.
+Percentage Legwear_size 3 Purchased: continuous.
+Percentage Legwear_size 2+ Purchased: continuous.
+Percentage Legwear_size 4 Purchased: continuous.
+Percentage Legwear_size 5 Purchased: continuous.
+Percentage Legwear_size 1P Purchased: continuous.
+Percentage Legwear_size A Purchased: continuous.
+Percentage Legwear_size 1X Purchased: continuous.
+Percentage Legwear_size B Purchased: continuous.
+Percentage Legwear_size C Purchased: continuous.
+Percentage Legwear_size D Purchased: continuous.
+Percentage Legwear_size E Purchased: continuous.
+Percentage Legwear_size F Purchased: continuous.
+Percentage Legwear_size I Purchased: continuous.
+Percentage Legwear_size L Purchased: continuous.
+Percentage Legwear_size M Purchased: continuous.
+Percentage Legwear_size P Purchased: continuous.
+Percentage Legwear_size S Purchased: continuous.
+Percentage Legwear_size T Purchased: continuous.
+Percentage Legwear_size S/M Purchased: continuous.
+Percentage Legwear_size 2P Purchased: continuous.
+Percentage Legwear_size CD Purchased: continuous.
+Percentage Legwear_size 2X Purchased: continuous.
+Percentage Legwear_size L/XL Purchased: continuous.
+Percentage Legwear_size 3P Purchased: continuous.
+Percentage Legwear_size C/D Purchased: continuous.
+Percentage Legwear_size 3X Purchased: continuous.
+Percentage Legwear_size 3/4 Purchased: continuous.
+Percentage Legwear_size EF Purchased: continuous.
+Percentage Legwear_size 6-8 1/2 Purchased: continuous.
+Percentage Legwear_size 4X Purchased: continuous.
+Percentage Legwear_size MAXI Purchased: continuous.
+Percentage Legwear_size 9-11 Purchased: continuous.
+Percentage Legwear_size P1 Purchased: continuous.
+Percentage Legwear_size 1x-2x Purchased: continuous.
+Percentage Legwear_size P2 Purchased: continuous.
+Percentage Legwear_size P3 Purchased: continuous.
+Percentage Legwear_size M/L Purchased: continuous.
+Percentage Legwear_size One Size Purchased: continuous.
+Percentage Legwear_size XL Purchased: continuous.
+Percentage Legwear_size XT Purchased: continuous.
+Percentage Legwear_size 5-6 1/2 Purchased: continuous.
+Percentage Legwear_size PP Purchased: continuous.
+Percentage Legwear_size A/B Purchased: continuous.
+Order Line Quantity Sum Percentage black: continuous.
+Order Line Quantity Sum Percentage gray: continuous.
+Order Line Quantity Sum Percentage white: continuous.
+Order Line Quantity Sum Percentage pink: continuous.
+Order Line Quantity Sum Percentage neutral: continuous.
+Order Line Quantity Sum Percentage brown: continuous.
+Order Line Quantity Sum Percentage blue: continuous.
+Order Line Quantity Sum Percentage navy: continuous.
+Order Line Quantity Sum Percentage pink/yellow/green: continuous.
+Order Line Quantity Sum Percentage khaki: continuous.
+Order Line Quantity Sum Percentage metallic: continuous.
+Order Line Quantity Sum Percentage off white: continuous.
+Order Line Quantity Sum Percentage cream: continuous.
+Order Line Quantity Sum Percentage red: continuous.
+Order Line Quantity Sum Percentage tan: continuous.
+Order Line Quantity Sum Percentage beige: continuous.
+Order Line Quantity Sum Percentage nude: continuous.
+Order Line Quantity Sum Percent Socktype1 TS: continuous.
+Order Line Quantity Sum Percent Socktype1 ML: continuous.
+Order Line Quantity Sum Percent Socktype1 PA: continuous.
+Order Line Quantity Sum Percent Socktype1 OC: continuous.
+Order Line Quantity Sum Percent Socktype1 KS: continuous.
+Order Line Quantity Sum Percentage Of Cotton Products: continuous.
+Order Line Quantity Sum Percentage Of Nylon Products: continuous.
+Order Line Quantity Sum Percentage Of Lycra Products: continuous.
+Order Line Quantity Sum Percentage Of Rayon Products: continuous.
+Order Line Quantity Sum Percentage Of Luxury Products: continuous.
+Order Line Quantity Sum Percentage Of Silk Products: continuous.
+Order Line Quantity Sum Percentage Of BodyFeature MBC: continuous.
+Order Line Quantity Sum Percentage Of BodyFeature UBC: continuous.
+Order Line Quantity Sum Percentage Of BodyFeature BS: continuous.
+Order Line Quantity Sum Percentage Of BodyFeature LBC: continuous.
+Order Line Quantity Sum Percentage Pattern Herringbone: continuous.
+Order Line Quantity Sum Percentage Pattern Stripe: continuous.
+Order Line Quantity Sum Percentage Pattern Plaid: continuous.
+Order Line Quantity Sum Percentage Pattern Conversational: continuous.
+Order Line Quantity Sum Percentage Pattern Solid: continuous.
+Order Line Quantity Sum Percentage Pattern Pique: continuous.
+Order Line Quantity Sum Percentage Pattern Floral: continuous.
+Order Line Quantity Sum Percentage Of Assortments Brands: continuous.
+Order Line Quantity Sum Percentage Of Assortments UniqueBoutiques: continuous.
+Order Line Quantity Sum Percentage Of Assortments Departments: continuous.
+Order Line Quantity Sum Percentage Of Assortments LifeStyles: continuous.
+Order Line Quantity Sum Percentage Of Assortment SaleAssortments: continuous.
+Order Line Quantity Sum Percentage Of Assortment Welcome: continuous.
+Order Discount Amount Average: continuous.
+Order Amount Sum Percent Having Discount Range (5 \.\.\. 10]: continuous.
+Order Amount Sum Percent Having Discount Range 0: continuous.
+Order Amount Sum Percent Having Discount Range (0 \.\.\. 5]: continuous.
+Order Amount Sum Percent Having Discount Range (10 \.\.\. ): continuous.
+Order item Quantity Sum Percent Having Discount Range (5 \.\.\. 10]: continuous.
+Order item Quantity Sum Percent Having Discount Range 0: continuous.
+Order item Quantity Sum Percent Having Discount Range (0 \.\.\. 5]: continuous.
+Order item Quantity Sum Percent Having Discount Range (10 \.\.\. ): continuous.
+Order Date Recency: continuous.
+Order Date Frequency: continuous.
+Percent Order Promotion FRIEND: continuous.
+Percent Order Promotion FREEBAG: continuous.
+Order Line Quantity Average: continuous.
+Order Line Quantity Sum: continuous.
+Order Line Quantity Minimum: continuous.
+Order Line Quantity Maximum: continuous.
+Order Line Quantity Sum Percent With Spray Package: continuous.
+Order Line Quantity Sum Percent With Box Package: continuous.
+Order Line Quantity Sum Percent With Tube Package: continuous.
+Order Line Quantity Sum Percent With Jar Package: continuous.
+Order Line Quantity Sum Percent With Bottle Package: continuous.
+Order Line Quantity Sum Percent Of Gift Sets & Special Producs: continuous.
+Order Line Quantity Sum Percent Of Deodorizer Products: continuous.
+Order Line Quantity Sum Percent Of Tools & Implements Products: continuous.
+Order Line Quantity Sum Percent Of Firming Products: continuous.
+Order Line Quantity Sum Percent Of Appliances & Tools Products: continuous.
+Order Line Quantity Sum Percent Of Energizers Products: continuous.
+Order Line Quantity Sum Percent Of Exfoliators Products: continuous.
+Order Line Quantity Sum Percent Of Energizers & Relaxers Products: continuous.
+Order Line Quantity Sum Percent StockType Replenishable: continuous.
+Order Line Quantity Sum Percent StockType Seasonal 1: continuous.
+Order Line Quantity Sum Percent StockType Replenishment: continuous.
+Order Line Quantity Sum Percent StockType Seasonal 1*: continuous.
+Order Line Quantity Sum Percent StockType Seasonal 2: continuous.
+Order Line Quantity Sum Percent StockType Fashion 1: continuous.
+Order Line Quantity Sum Percent ProductForm Capsule: continuous.
+Order Line Quantity Sum Percent ProductForm Lotion: continuous.
+Order Line Quantity Sum Percent ProductForm gel: continuous.
+Order Line Quantity Sum Percent ProductForm Cream: continuous.
+Order Line Quantity Sum Percent ProductForm Liquid: continuous.
+Order Line Quantity Sum Percent Of Opaque Products: continuous.
+Order Line Quantity Sum Percent Of Sheer Products: continuous.
+Order Line Quantity Sum Percent Of Ultra Sheer Products: continuous.
+Order Line Quantity Sum Percent Basic Products: continuous.
+Order Line Quantity Sum Percent Fashion Products: continuous.
+Order Line Quantity Sum Percent Without DressingRoom: continuous.
+Order Line Quantity Sum Percent With DressingRoom: continuous.
+Order Line Quantity Sum Percent ToeFeature Reinforced Toe: continuous.
+Order Line Quantity Sum PercentToeFeature Sandal Foot: continuous.
+Order Line Quantity Sum Percent Texture Flat: continuous.
+Order Line Quantity Sum Percent Texture Textured: continuous.
+Order Line Quantity Sum Percent Of Spring/Summer 2000 Collection: continuous.
+Order Line Quantity Sum Percent Of Childrens Dance Collection: continuous.
+Order Line Quantity Sum Percent Of Men's Essential Sport Collection: continuous.
+Order Line Quantity Sum Percent Of Specialty Items Collection: continuous.
+Order Line Quantity Sum Percent Of Teddy Hose Collection: continuous.
+Order Line Quantity Sum Percent Of Men's Patterns and Textures Collection: continuous.
+Order Line Quantity Sum Percent Of Essential Women's Dress Basics Collection: continuous.
+Order Line Quantity Sum Percent Of Essential Women's Casual Basics Collection: continuous.
+Order Line Quantity Sum Percent Of Icon Collection: continuous.
+Order Line Quantity Sum Percent Of Conversational Classics Collection: continuous.
+Order Line Quantity Sum Percent Of Occasions Collection: continuous.
+Order Line Quantity Sum Percent Of The New Classics Collection: continuous.
+Order Line Quantity Sum Percent Of Hanes Plus Collection: continuous.
+Order Line Quantity Sum Percent Of Womens Dance Collection: continuous.
+Order Line Quantity Sum Percent Of Essential Women's Sport Basics Collection: continuous.
+Order Line Quantity Sum Percent Of Oroblu Italian Hosiery Collection: continuous.
+Order Line Quantity Sum Percent Of DKNY Basic Trouser Socks Collection: continuous.
+Order Line Quantity Sum Percent Of Luxury Collection Collection: continuous.
+Order Line Quantity Sum Percent Of Conversationals Collection: continuous.
+Order Count: continuous.
+Order Line Day of Week First: Thursday,Saturday,Tuesday,Sunday,Wednesday,Friday,Monday.
+Order Local Hour of Day First: continuous.
+Order Shipping Amount Average: continuous.
+Order Shipping Amount Minimum: continuous.
+Order Shipping Amount Maximum: continuous.
+Order Line Quantity Sum Percent Of Women Products: continuous.
+Order Line Quantity Sum Percent Of Men Products: continuous.
+Order Line Quantity Sum Percent Of Children Products: continuous.
+Order Line Amount Sum Percent Of Women Products: continuous.
+Order Line Amount Sum Percent Of Men Products: continuous.
+Order Line Amount Sum Percent Of Children Products: continuous.
+Spend over $12 per order on average: True,False.
+Num Hanes Product Views: continuous.
+Num Oroblu Product Views: continuous.
+Num AmericanEssentials Product Views: continuous.
+Num Danskin Product Views: continuous.
+Num DonnaKaran Product Views: continuous.
+Num Givenchy Product Views: continuous.
+Num EvanPicone Product Views: continuous.
+Num NicoleMiller Product Views: continuous.
+Num HotSox Product Views: continuous.
+Num EllenTracy Product Views: continuous.
+Num Legwear Product Views: continuous.
+Num LegCare Product Views: continuous.
+Num Cotton Product Views: continuous.
+Num Nylon Product Views: continuous.
+Num Coolmax Product Views: continuous.
+Num Lycra Product Views: continuous.
+Num Luxury Product Views: continuous.
+Num Rayon Product Views: continuous.
+Num Cotton/Acrylic Product Views: continuous.
+Num Silk Product Views: continuous.
+Num Opaque Product Views: continuous.
+Num Herringbone Pattern Views: continuous.
+Num Stripe Pattern Views: continuous.
+Num Plaid Pattern Views: continuous.
+Num Conversational Pattern Views: continuous.
+Num Solid Pattern Views: continuous.
+Num Pique Pattern Views: continuous.
+Num Pin Dot Pattern Views: continuous.
+Num Floral Pattern Views: continuous.
+Num BrandOrder Assortment Views: continuous.
+Num UniqueBoutiques Assortment Views: continuous.
+Num Brands Assortment Views: continuous.
+Num Departments Assortment Views: continuous.
+Num LifeStyles Assortment Views: continuous.
+Num SaleAssortments Assortment Views: continuous.
+Num Welcome Assortment Views: continuous.
+Num Seasonal Assortment Views: continuous.
+Request Processing Time Average: continuous.
+Request Processing Time Sum: continuous.
+Session Last Request Processing Time: continuous.
+UnitsPerInnerBox Average: continuous.
+UnitsPerInnerBox Sum: continuous.
+UnitsPerInnerBox Last Page: continuous.
+Depth Average: continuous.
+Depth Sum: continuous.
+Depth Last Page: continuous.
+VendorMinREOrderDollars Average: continuous.
+VendorMinREOrderDollars Sum: continuous.
+VendorMinREOrderDollars Last Page: continuous.
+Height Average: continuous.
+Height Sum: continuous.
+Height Last Page: continuous.
+UnitsPerOuterBox Average: continuous.
+UnitsPerOuterBox Sum: continuous.
+UnitsPerOuterBox Last Page: continuous.
+Pack Average: continuous.
+Pack Sum: continuous.
+Pack Last Page: continuous.
+Length Average: continuous.
+Length Sum: continuous.
+Length Last Page: continuous.
+LeadTime Average: continuous.
+LeadTime Sum: continuous.
+LeadTime Last Page: continuous.
+Weight Average: continuous.
+Weight Sum: continuous.
+Weight Last Page: continuous.
+Width Average: continuous.
+Width Sum: continuous.
+Width Last Page: continuous.
+UnitIncrement Average: continuous.
+UnitIncrement Sum: continuous.
+UnitIncrement Last Page: continuous.
+Num main Template Views: continuous.
+Num products Template Views: continuous.
+Num articles Template Views: continuous.
+Num account Template Views: continuous.
+Num checkout Template Views: continuous.
+Num main/home Template Views: continuous.
+Num products/productDetailLegwear Template Views: continuous.
+Num main/boutique Template Views: continuous.
+Num main/departments Template Views: continuous.
+Num main/assortment Template Views: continuous.
+Num main/vendor Template Views: continuous.
+Num main/search_results Template Views: continuous.
+Num main/lifestyles Template Views: continuous.
+Num main/shopping_cart Template Views: continuous.
+Num main/assortment2 Template Views: continuous.
+Num products/productDetailLegcare Template Views: continuous.
+Num articles/dpt_about Template Views: continuous.
+Num main/login2 Template Views: continuous.
+Num main/replenishment Template Views: continuous.
+Num articles/dpt_about_mgmtteam Template Views: continuous.
+Num main/freegift Template Views: continuous.
+Num main/leg_news Template Views: continuous.
+Num main/vendor2 Template Views: continuous.
+Num main/registration Template Views: continuous.
+Num main/cust_serv Template Views: continuous.
+Num Spray Package Views: continuous.
+Num Box Package Views: continuous.
+Num Tube Package Views: continuous.
+Num Jar Package Views: continuous.
+Num Bottle Package Views: continuous.
+Num Gift Sets & Special Items Views: continuous.
+Num Deodorizer Views: continuous.
+Num Firming Views: continuous.
+Num Energizers & Relaxers Views: continuous.
+Num Replenishable Stock Views: continuous.
+Num Seasonal 1 Stock Views: continuous.
+Num Seasonal 1* Stock Views: continuous.
+Num Seasonal 2 Stock Views: continuous.
+Num Replenishment Stock Views: continuous.
+Num Fashion 1 Stock Views: continuous.
+Num Tablets Product Views: continuous.
+Num Stick Product Views: continuous.
+Num Capsule Product Views: continuous.
+Num Lotion Product Views: continuous.
+Num Wax Product Views: continuous.
+Num Gel Product Views: continuous.
+Num Cream Product Views: continuous.
+Num Liquid Product Views: continuous.
+Num Opaque Look Product Views: continuous.
+Num Sheer Look Product Views: continuous.
+Num Ultra Sheer Look Product Views: continuous.
+Num Basic Product Views: continuous.
+Num Fashion Product Views: continuous.
+Num HasDressingRoom True Views: continuous.
+Num HasDressingRoom False Views: continuous.
+Num Flat Product Views: continuous.
+Num Textured Product Views: continuous.
+Num Reinforced Toe Views: continuous.
+Num Sandal Foot Views: continuous.
+Num PH Category Views: continuous.
+Num WDCS Category Views: continuous.
+Num TH Category Views: continuous.
+Num WAS Category Views: continuous.
+Num FO Category Views: continuous.
+Num LG Category Views: continuous.
+Num TT Category Views: continuous.
+Num MDS Category Views: continuous.
+Num MAS Category Views: continuous.
+Num BKS Category Views: continuous.
+Num LEO Category Views: continuous.
+Num GDCS Category Views: continuous.
+Num KP Category Views: continuous.
+Num BDCS Category Views: continuous.
+Num MCS Category Views: continuous.
+Num CT Waist Control Views: continuous.
+Num STW Waist Control Views: continuous.
+Num Women Product Views: continuous.
+Num Men Product Views: continuous.
+Num Children Product Views: continuous.
+Session Last Query String: ignore.
+Session Last Template: main/departments\.jhtml,main/freegift\.jhtml,main/replenishment\.jhtml,articles/dpt_contact\.jhtml,account/credit_info\.jhtml,account/address\.jhtml,main/legcare_vendor\.jhtml,main/leg_news_legkicks\.jhtml,checkout/confirm_order\.jhtml,main/vendor\.jhtml,products/productDetailLegcare\.jhtml,main/cust_serv\.jhtml,articles/dpt_refer\.jhtml,articles/dpt_payment\.jhtml,main/login2\.jhtml,main/vendor2\.jhtml,main/registration\.jhtml,main/assortment\.jhtml,account/past_orders_details\.jhtml,replenish/view_replenish\.jhtml,checkout/expressCheckout\.jhtml,main/lifestyles\.jhtml,main/order_closed\.jhtml,main/search_results\.jhtml,main/sales_assortment\.jhtml,account/your_account\.jhtml,checkout/expresscheckout\.jhtml,articles/new_returns\.jhtml,main/leg_news_fashion_word\.jhtml,account/shipping_info\.jhtml,articles/dpt_about_BoardOfDirectors\.jhtml,articles/dpt_affiliate\.jhtml,articles/new_shipping\.jhtml,checkout/thankyou\.jhtml,main/welcome\.jhtml,main/boutique\.jhtml,main/shopping_cart\.jhtml,main/assortment2\.jhtml,articles/dpt_about_MgmtTeam\.jhtml,articles/dpt_returns\.jhtml,articles/dpt_about_mgmtteam\.jhtml,products/productDetailLegwear\.jhtml,articles/dpt_faqs\.jhtml,main/home\.jhtml,articles/dpt_about\.jhtml,main/leg_news\.jhtml,account/past_orders\.jhtml.
+Session Last Request Day Of Week: Thursday,Saturday,Tuesday,Sunday,Wednesday,Friday,Monday.
+BrandName Last: BB,Silk Reflections,DAN,ELT,Absolutely Ultra Sheer,ORO,AME,DKNY,Hanes Too,EVP,NM,HOSO,NULL.
+StockType Last: Seasonal 1*,Seasonal 1,Seasonal 2,Replenishable,NULL.
+Look Last: Sheer,NULL,Ultra Sheer.
+BasicOrFashion Last: Fashion,NULL,Basic.
+HasDressingRoom Last: NULL,True,False.
+Texture Last: Flat,Textured,NULL.
+ToeFeature Last: RT,SF,NULL.
+Material Last: Nylon,Cotton,Lycra,NULL.
+WaistControl Last: CT,NULL.
+Collection Last: Specialty Items,Childrens Dance,Oroblu Fashion Line,Conversationals,Hanes Plus Collection,Conversational Classics,Athletics,Men's Essential Sport,Occasions Collection,Pregnancy Survival Kit,DKNY Basic Trouser Socks,Men's Patterns and Textures,Beyond Bare Collection,Spring/Summer 2000,Teddy Hose,NULL.
+Audience Last: Men,Children,Women,NULL.
+Pattern Last: Conversational,Solid,NULL.
+Product Level 1 Path Last: /Products/Legwear,/Products/LegCare,NULL.
+Product Level 2 Path Last: /Products/LegCare/SwissBalance,/Products/Legwear/Danskin,/Products/LegCare/VeinGard,/Products/Legwear/EllenTracy,/Products/Legwear/Oroblu,/Products/Legwear/NicoleMiller,/Products/Legwear/DKNY,/Products/Legwear/HotSox,/Products/Legwear/Hanes,/Products/Legwear/BellyBasics,/Products/Legwear/AmericanEssentials,/Products/Legwear/EvanPicone,NULL.
+Assortment Level 2 Path Last: /Assortments/Main/UniqueBoutiques,/Assortments/Main/Brands,/Assortments/Main/SaleAssortments,/Assortments/Main/Welcome,/Assortments/Main/BrandOrder,/Assortments/Main/Departments,/Assortments/Main/LifeStyles,/Assortments/Main/Seasonal,NULL.
+Assortment Level 3 Path Last: /Assortments/Main/Departments/A2_Socks,/Assortments/Main/UniqueBoutiques/05_maternity,/Assortments/Main/Welcome/Legwear,/Assortments/Main/Brands/LegCare,/Assortments/Main/UniqueBoutiques/04_evenings,/Assortments/Main/UniqueBoutiques/08_Seasonal,/Assortments/Main/LifeStyles/family,/Assortments/Main/UniqueBoutiques/02_men,/Assortments/Main/UniqueBoutiques/07_gifts,/Assortments/Main/Departments/A1_Hosiery,/Assortments/Main/Seasonal/Spring2000,/Assortments/Main/LifeStyles/InStyle,/Assortments/Main/UniqueBoutiques/03_kids,/Assortments/Main/UniqueBoutiques/01_PlusSizes,/Assortments/Main/UniqueBoutiques/06_dance,/Assortments/Main/Departments/A4_Legcare,/Assortments/Main/LifeStyles/LegCare,/Assortments/Main/LifeStyles/Work,/Assortments/Main/Departments/A3_Bodywear,/Assortments/Main/Welcome/Legcare,/Assortments/Main/SaleAssortments/WinterSale2000,/Assortments/Main/Brands/Legwear,/Assortments/Main/LifeStyles/Sport,NULL.
+Content Level 2 Path Last: /Content/templates/articles,/Content/templates/Replenish,/Content/templates/checkout,/Content/templates/main,/Content/templates/products,/Content/templates/account,NULL.
+Session Last Request Hour Of Day: continuous.
+Session Request Count Average: continuous.
+Session Request Count Sum: continuous.
+Session Time Elapsed Average: continuous.
+Session Time Elapsed Sum: continuous.
+Average Time Each Page View: continuous.
+Num Sessions: continuous.
+First Session First Referrer: ignore.
+First Session First Request Day of Week: Thursday,Saturday,Tuesday,Sunday,Wednesday,Friday,Monday.
+First Session Browser Family: WebTV,Netscape,AOL,Internet Explorer,Other.
+First Session Browser: Internet Explorer Windows 4\.0,WebTV 1\.2,AOL Windows 2\.0,Internet Explorer Mac 4\.0,Netscape 4\.51,Internet Explorer MSN 4\.0,Netscape Mac 4\.51,AOL Mac 4\.0,Netscape 4\.61,Internet Explorer+ 4\.0,Netscape Mac 4\.61,Netscape 4\.71,Netscape 4\.72,Netscape Mac 4\.72,Internet Explorer++ 4\.0,AOL Mac 3\.0,Internet Explorer Windows 2\.0,Netscape 4\.02,Netscape 4\.03,Netscape 4\.04,Netscape 4\.5,Netscape 4\.05,Netscape 4\.6,Netscape 4\.06,Netscape 4\.7,Netscape 4\.07,Netscape 4\.08,AOL Windows 4\.0,Netscape Mac 4\.04,Netscape Mac 4\.05,Netscape Mac 4\.06,Netscape Mac 4\.08,AOL Mac 2\.0,Netscape Mac 4\.5,Netscape Mac 4\.6,Netscape Mac 4\.7,Other.
+First Session Browser Family Top 3: Netscape,AOL,Internet Explorer,Other.
+First Session First Template Top 5: main/departments\.jhtml,main/vendor\.jhtml,main/boutique\.jhtml,products/productDetailLegwear\.jhtml,main/home\.jhtml,Other.
+First Session First Referrer Top 5: http\://www\.mycoupons\.com,http\://www\.fashionmall\.com,http\://www\.gazelle\.com,http\://stores\.shopnow\.com,Other.
+Session First Processing Time: continuous.
+Session First Request Hour of Day: continuous.
+Last Session Average Time Per Page View: continuous.
+Session First Query String: ignore.
+Session First Referrer: ignore.
+Session First Template: main/departments\.jhtml,main/freegift\.jhtml,main/replenishment\.jhtml,main/legcare_vendor\.jhtml,main/vendor\.jhtml,main/registration_shipaddress\.jhtml,main/login2\.jhtml,main/vendor2\.jhtml,main/registration\.jhtml,main/assortment\.jhtml,checkout/expressCheckout\.jhtml,main/search_results\.jhtml,main/sales_assortment\.jhtml,account/your_account\.jhtml,articles/new_shipping\.jhtml,main/welcome\.jhtml,main/boutique\.jhtml,main/shopping_cart\.jhtml,main/assortment2\.jhtml,products/productDetailLegwear\.jhtml,main/home\.jhtml,articles/dpt_about\.jhtml,main/leg_news_healthwellness\.jhtml.
+Session First Request Day of Week: Thursday,Saturday,Tuesday,Sunday,Wednesday,Friday,Monday.
+Session Browser Family: WebTV,Netscape,AOL,Internet Explorer,Other.
+Session Browser: Internet Explorer Windows 4\.0,WebTV 1\.2,AOL Windows 2\.0,Internet Explorer Mac 4\.0,Netscape 4\.51,Internet Explorer MSN 4\.0,Netscape Mac 4\.51,AOL Mac 4\.0,Netscape 4\.61,Internet Explorer+ 4\.0,Netscape Mac 4\.61,Netscape 4\.71,Netscape 4\.72,Netscape Mac 4\.72,Internet Explorer++ 4\.0,AOL Mac 3\.0,Internet Explorer Windows 2\.0,Netscape 4\.02,Netscape 4\.03,Netscape 4\.04,Netscape 4\.5,Netscape 4\.05,Netscape 4\.6,Netscape 4\.06,Netscape 4\.7,Netscape 4\.07,Netscape 4\.08,AOL Windows 4\.0,Netscape Mac 4\.04,Netscape Mac 4\.05,Netscape Mac 4\.06,Netscape Mac 4\.08,AOL Mac 2\.0,Netscape Mac 4\.5,Netscape Mac 4\.6,Netscape Mac 4\.7,Other.
+Session Browser Family Top 3: Netscape,AOL,Internet Explorer,Other.
+Session First Template Top 5: main/departments\.jhtml,main/vendor\.jhtml,main/boutique\.jhtml,products/productDetailLegwear\.jhtml,main/home\.jhtml,Other.
+Session First Referrer Top 5: http\://www\.mycoupons\.com,http\://www\.fashionmall\.com,http\://www\.gazelle\.com,http\://stores\.shopnow\.com,Other.
+Session First Request Hour of Day Bin: [ordered] (\.\.\. 5], (5 \.\.\. 9], (9 \.\.\. 12], (12 \.\.\. 14], (14 \.\.\. 17], (17 \.\.\. 22], (22 \.\.\.).
+Last Session User Agent: ignore.
+First Session First Request Date: date.
+First Session First Request Date_Time: time.
+Last Session Last Request Date: date.
+Last Session Last Request Date_Time: time.
+Last Session Visit Count: continuous.
+Session Last Template Top 5: main/departments\.jhtml,main/vendor\.jhtml,main/boutique\.jhtml,products/productDetailLegwear\.jhtml,main/home\.jhtml,Other.
