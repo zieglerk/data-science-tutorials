@@ -111,3 +111,76 @@ machine.
 └── README.md
 
 23 directories, 46 files
+# Project tree
+
+.
+ * 0-Intro
+   * images
+   * Scikit-learn-overview.ipynb
+   * Web Mining Project .ipynb
+ * 1-Datasets_Visualization_and_preprocessing
+   * 1-Datasets-and-Visualizations.ipynb
+   * Boston_house_dataset.ipynb
+   * Crawling_twitter_with_python.ipynb
+   * dataset
+   * images
+   * IV.VA-InformationVisualisation-with-JavaScript-and-3DJs.ipynb
+   * KDD_cup_2000_data_set.ipynb
+   * MDS_projection.ipynb
+   * PCA_projection.ipynb
+   * python-twitter
+   * scikit-learn-overview-and-preprocessing.ipynb
+ * 2-Clustering
+   * 2-Clustering.ipynb
+   * dataset
+   * Tutorial_clustering_for_outlier_detection_3D.ipynb
+   * Tutorial_clustering_for_outlier_detection.ipynb
+ * 3-Association-Rules
+   * Apriori_asaini.ipynb
+   * Apriori.ipynb
+   * Apriori_server.ipynb
+   * Assignment_Association_rule_learning.ipynb
+   * dataset
+   * Tutorial_association_rule_learning_shopping_basket.ipynb
+ * 4-Linear_regression_and_logistic_regression
+   * 4-Linear-Regression.ipynb
+   * Assignment_Linear_Regression.ipynb
+   * Assignment_Logistic_regression.ipynb
+   * AUTO
+   * Boston_house_Linear_Regression.ipynb
+   * dataset
+   * Linear_regression_diabetes_dataset.ipynb
+   * Logistic_regression.ipynb
+   * Small_scale_linear_regression.ipynb
+   * Supervised_Learning_with_Linear_Models.ipynb
+ * 5-KNN_classification
+   * KNN_classification.ipynb
+   * Metrics.ipynb
+ * 6-Bayes-Learning
+   * 20news-bydate-test
+   * 20news-bydate-train
+   * 6-Bayes-Learning.ipynb
+   * delete.py
+ * 7-Decision-Trees.ipynb
+ * 8-Neural-Networks
+   * 6-keras-mnist.ipynb
+   * pics
+   * Simple-NN.ipynb
+   * Stacked-Denoising-Autoencoders.ipynb
+   * Untitled.ipynb
+ * 9-SVM
+   * Assignment_SVM_for_OCR.ipynb
+   * Support_Vector_Machines.ipynb
+ * A-Advanced_modules
+   * III.NLP-with-NLTK-Short-Intro.ipynb
+ * B-Scripts
+   * plot_classification.py
+   * plot_cluster_comparison.py
+   * plot_iris_logistic.py
+   * plot_kmeans_digits.py
+   * plot_svm_margin.py
+ * CAR
+   * data
+   * description
+ * README.md
+ * script.sh
