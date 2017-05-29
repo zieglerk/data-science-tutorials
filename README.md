@@ -1,6 +1,8 @@
 # data-science-tutorials
-4.[Unsupervised Learning: Projections and Manifolds](./3-Association-Rules/Apriori_server.ipynb)
 
+<!-- 4.[Unsupervised Learning: Projections and Manifolds](./3-Association-Rules/Apriori_server.ipynb)
+ -->
+ 
 This repository contains jupyter-notebooks to accompany the tutorials for our data science lectures. The following topics are covered (each within a separate folder).
 
 1. Dataset Visualization (Boston Housing minus the linear regression;
