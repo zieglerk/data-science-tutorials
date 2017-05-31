@@ -42,25 +42,22 @@ machine.
 - Pandas; [documentation] also as
   [pdf](http://pandas.pydata.org/pandas-docs/version/0.18.1/pandas.pdf)
 
- * 0-Intro
-   * images
+## Table of content
+ * ### 0-Intro
    * Scikit-learn-overview.ipynb
    * Web Mining Project .ipynb
- * 1-Datasets_Visualization_and_preprocessing
-   * 1-Datasets-and-Visualizations.ipynb
+ * ### 1-Datasets_Visualization_and_preprocessing
    * Boston_house_dataset.ipynb
    * Crawling_twitter_with_python.ipynb
    * dataset
-   * images
-   * IV.VA-InformationVisualisation-with-JavaScript-and-3DJs.ipynb
+   * Datasets-and-Visualizations.ipynb
    * KDD_cup_2000_data_set.ipynb
    * MDS_projection.ipynb
    * PCA_projection.ipynb
-   * python-twitter
    * scikit-learn-overview-and-preprocessing.ipynb
- * 2-Clustering
-   * 2-Clustering.ipynb
-   * dataset
+   * VA-InformationVisualisation-with-JavaScript-and-3DJs.ipynb
+ * ### 2-Clustering
+   * Clustering_overview.ipynb(MNIST)([IRIS](./1-Datasets_Visualization_and_preprocessing/Datasets-and-Visualizations.ipynb))
    * Tutorial_clustering_for_outlier_detection_3D.ipynb
    * Tutorial_clustering_for_outlier_detection.ipynb
  * 3-Association-Rules
@@ -71,13 +68,12 @@ machine.
    * dataset
    * Tutorial_association_rule_learning_shopping_basket.ipynb
  * 4-Linear_regression_and_logistic_regression
-   * 4-Linear-Regression.ipynb
    * Assignment_Linear_Regression.ipynb
    * Assignment_Logistic_regression.ipynb
-   * AUTO
    * Boston_house_Linear_Regression.ipynb
    * dataset
    * Linear_regression_diabetes_dataset.ipynb
+   * Linear-Regression.ipynb
    * Logistic_regression.ipynb
    * Small_scale_linear_regression.ipynb
    * Supervised_Learning_with_Linear_Models.ipynb
@@ -87,15 +83,14 @@ machine.
  * 6-Bayes-Learning
    * 20news-bydate-test
    * 20news-bydate-train
-   * 6-Bayes-Learning.ipynb
-   * delete.py
+   * Bayes-Learning.ipynb
  * 7-Decision-Trees.ipynb
  * 8-Neural-Networks
    * 6-keras-mnist.ipynb
+   * keras-mnist.ipynb
    * pics
    * Simple-NN.ipynb
    * Stacked-Denoising-Autoencoders.ipynb
-   * Untitled.ipynb
  * 9-SVM
    * Assignment_SVM_for_OCR.ipynb
    * Support_Vector_Machines.ipynb
@@ -107,3 +102,5 @@ machine.
    * plot_iris_logistic.py
    * plot_kmeans_digits.py
    * plot_svm_margin.py
+ * README.md
+ * script.sh
