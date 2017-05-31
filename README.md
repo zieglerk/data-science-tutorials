@@ -42,14 +42,13 @@ machine.
 - Pandas; [documentation] also as
   [pdf](http://pandas.pydata.org/pandas-docs/version/0.18.1/pandas.pdf)
 
-## Table of content
+# Table of content
  * ### 0-Intro
    * Scikit-learn-overview.ipynb
    * Web Mining Project .ipynb
  * ### 1-Datasets_Visualization_and_preprocessing
    * Boston_house_dataset.ipynb
    * Crawling_twitter_with_python.ipynb
-   * dataset
    * Datasets-and-Visualizations.ipynb
    * KDD_cup_2000_data_set.ipynb
    * MDS_projection.ipynb
@@ -58,20 +57,18 @@ machine.
    * VA-InformationVisualisation-with-JavaScript-and-3DJs.ipynb
  * ### 2-Clustering
    * Clustering_overview.ipynb(MNIST)([IRIS](./1-Datasets_Visualization_and_preprocessing/Datasets-and-Visualizations.ipynb))
-   * Tutorial_clustering_for_outlier_detection_3D.ipynb
-   * Tutorial_clustering_for_outlier_detection.ipynb
+   * Tutorial_clustering_for_outlier_detection_3D.ipynb(KDD 1999)
+   * Tutorial_clustering_for_outlier_detection.ipynb(KDD 1999)
  * 3-Association-Rules
    * Apriori_asaini.ipynb
    * Apriori.ipynb
    * Apriori_server.ipynb
    * Assignment_Association_rule_learning.ipynb
-   * dataset
    * Tutorial_association_rule_learning_shopping_basket.ipynb
  * 4-Linear_regression_and_logistic_regression
    * Assignment_Linear_Regression.ipynb
    * Assignment_Logistic_regression.ipynb
    * Boston_house_Linear_Regression.ipynb
-   * dataset
    * Linear_regression_diabetes_dataset.ipynb
    * Linear-Regression.ipynb
    * Logistic_regression.ipynb
@@ -88,7 +85,6 @@ machine.
  * 8-Neural-Networks
    * 6-keras-mnist.ipynb
    * keras-mnist.ipynb
-   * pics
    * Simple-NN.ipynb
    * Stacked-Denoising-Autoencoders.ipynb
  * 9-SVM
@@ -97,10 +93,3 @@ machine.
  * A-Advanced_modules
    * III.NLP-with-NLTK-Short-Intro.ipynb
  * B-Scripts
-   * plot_classification.py
-   * plot_cluster_comparison.py
-   * plot_iris_logistic.py
-   * plot_kmeans_digits.py
-   * plot_svm_margin.py
- * README.md
- * script.sh
