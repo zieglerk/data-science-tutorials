@@ -93,5 +93,5 @@ machine.
    * Assignment_SVM_for_OCR.ipynb ([MNIST](./1-Datasets_Visualization_and_preprocessing/3-MNIST.ipynb))
    * Support_Vector_Machines.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb))
  * ### A-Advanced_modules
-   * III.NLP-with-NLTK-Short-Intro.ipynb
+   * NLP-with-NLTK-Short-Intro.ipynb
  * ### B-Scripts
