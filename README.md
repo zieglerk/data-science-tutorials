@@ -84,14 +84,14 @@ machine.
    * 20news-bydate-test
    * 20news-bydate-train
    * Bayes-Learning.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb)) ([20 news group](./1-Datasets_Visualization_and_preprocessing/5-20newsgroups.ipynb))
- * 7-Decision-Trees.ipynb ([UCI_car](./1-Datasets_Visualization_and_preprocessing/4-UCI_CAR.ipynb))
- * 8-Neural-Networks
+ * ### 7-Decision-Trees.ipynb ([UCI_car](./1-Datasets_Visualization_and_preprocessing/4-UCI_CAR.ipynb))
+ * ### 8-Neural-Networks
    * keras-mnist.ipynb ([MNIST](./1-Datasets_Visualization_and_preprocessing/3-MNIST.ipynb))
    * Simple-NN.ipynb (make_moons)
    * Stacked-Denoising-Autoencoders.ipynb
- * 9-SVM
+ * ### 9-SVM
    * Assignment_SVM_for_OCR.ipynb ([MNIST](./1-Datasets_Visualization_and_preprocessing/3-MNIST.ipynb))
    * Support_Vector_Machines.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb))
- * A-Advanced_modules
+ * ### A-Advanced_modules
    * III.NLP-with-NLTK-Short-Intro.ipynb
- * B-Scripts
+ * ### B-Scripts
