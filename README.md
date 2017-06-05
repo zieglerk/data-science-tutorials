@@ -46,7 +46,7 @@ machine.
  * ### 0-Intro
    * Scikit-learn-overview.ipynb
    * Web Mining Project .ipynb
- * 1-Datasets_Visualization_and_preprocessing
+ * ### 1-Datasets_Visualization_and_preprocessing
    * 1-IRIS.ipynb
    * 2-Boston_house_dataset.ipynb
    * 3-MNIST.ipynb
@@ -54,44 +54,44 @@ machine.
    * 5-20newsgroups.ipynb
    * 6-KDD_cup_2000_data_set.ipynb
    * Crawling_twitter_with_python.ipynb
-   * MDS_projection.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb)
-   * PCA_projection.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb)
-   * scikit-learn-overview-and-preprocessing.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/2-Boston_house_dataset.ipynb)
+   * MDS_projection.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb))
+   * PCA_projection.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb))
+   * scikit-learn-overview-and-preprocessing.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/2-Boston_house_dataset.ipynb))
    * VA-InformationVisualisation-with-JavaScript-and-3DJs.ipynb
  * ### 2-Clustering
-   * Clustering_overview.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/2-Boston_house_dataset.ipynb) ([MNIST](./1-Datasets_Visualization_and_preprocessing/3-MNIST.ipynb)
+   * Clustering_overview.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/2-Boston_house_dataset.ipynb)) ([MNIST](./1-Datasets_Visualization_and_preprocessing/3-MNIST.ipynb))
    * Tutorial_clustering_for_outlier_detection_3D.ipynb (Kddcup 1999)
    * Tutorial_clustering_for_outlier_detection.ipynb (Kddcup 1999)
  * ### 3-Association-Rules
-   * Apriori_asaini.ipynb ([MBE_dataset](./3-Association-Rules/dataset/INTEGRATED-DATASET.csv)
-   * Apriori.ipynb ([Boston house](./1-Datasets_Visualization_and_preprocessing/2-Boston_house_dataset.ipynb)
-   * Apriori_server.ipynb ([Mango_dataset](./3-Association-Rules/dataset/data.csv)
+   * Apriori_asaini.ipynb ([MBE_dataset](./3-Association-Rules/dataset/INTEGRATED-DATASET.csv))
+   * Apriori.ipynb ([Boston house](./1-Datasets_Visualization_and_preprocessing/2-Boston_house_dataset.ipynb))
+   * Apriori_server.ipynb ([Mango_dataset](./3-Association-Rules/dataset/data.csv))
    * Assignment_Association_rule_learning.ipynb
    * Tutorial_association_rule_learning_shopping_basket.ipynb (KDDcup 2000)
  * ### 4-Linear_regression_and_logistic_regression
    * Assignment_Linear_Regression.ipynb
    * Assignment_Logistic_regression.ipynb ([UCI_car](./1-Datasets_Visualization_and_preprocessing/4-UCI_CAR.ipynb))
-   * Boston_house_Linear_Regression.ipynb ([Boston house](./1-Datasets_Visualization_and_preprocessing/2-Boston_house_dataset.ipynb)
+   * Boston_house_Linear_Regression.ipynb ([Boston house](./1-Datasets_Visualization_and_preprocessing/2-Boston_house_dataset.ipynb))
    * Linear_regression_diabetes_dataset.ipynb
-   * Linear-Regression.ipynb ([Boston house](./1-Datasets_Visualization_and_preprocessing/2-Boston_house_dataset.ipynb)
-   * Logistic_regression.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb)
+   * Linear-Regression.ipynb ([Boston house](./1-Datasets_Visualization_and_preprocessing/2-Boston_house_dataset.ipynb))
+   * Logistic_regression.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb))
    * Small_scale_linear_regression.ipynb (KDDcup)
-   * Supervised_Learning_with_Linear_Models.ipynb ([Boston house](./1-Datasets_Visualization_and_preprocessing/2-Boston_house_dataset.ipynb)
+   * Supervised_Learning_with_Linear_Models.ipynb ([Boston house](./1-Datasets_Visualization_and_preprocessing/2-Boston_house_dataset.ipynb))
  * ### 5-KNN_classification
-   * KNN_classification.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb)
-   * Metrics.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb)
+   * KNN_classification.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb))
+   * Metrics.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb))
  * ### 6-Bayes-Learning
    * 20news-bydate-test
    * 20news-bydate-train
-   * Bayes-Learning.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb) ([20 news group](./1-Datasets_Visualization_and_preprocessing/5-20newsgroups.ipynb)
+   * Bayes-Learning.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb)) ([20 news group](./1-Datasets_Visualization_and_preprocessing/5-20newsgroups.ipynb))
  * 7-Decision-Trees.ipynb ([UCI_car](./1-Datasets_Visualization_and_preprocessing/4-UCI_CAR.ipynb))
  * 8-Neural-Networks
-   * keras-mnist.ipynb ([MNIST](./1-Datasets_Visualization_and_preprocessing/3-MNIST.ipynb)
+   * keras-mnist.ipynb ([MNIST](./1-Datasets_Visualization_and_preprocessing/3-MNIST.ipynb))
    * Simple-NN.ipynb (make_moons)
    * Stacked-Denoising-Autoencoders.ipynb
  * 9-SVM
-   * Assignment_SVM_for_OCR.ipynb ([MNIST](./1-Datasets_Visualization_and_preprocessing/3-MNIST.ipynb)
-   * Support_Vector_Machines.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb)
+   * Assignment_SVM_for_OCR.ipynb ([MNIST](./1-Datasets_Visualization_and_preprocessing/3-MNIST.ipynb))
+   * Support_Vector_Machines.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb))
  * A-Advanced_modules
    * III.NLP-with-NLTK-Short-Intro.ipynb
  * B-Scripts
