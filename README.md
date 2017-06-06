@@ -47,12 +47,12 @@ machine.
    * Scikit-learn-overview.ipynb
    * Web Mining Project .ipynb
  * ### 1-Datasets_Visualization_and_preprocessing
-   * 1-IRIS.ipynb
-   * 2-Boston_house_dataset.ipynb
-   * 3-MNIST.ipynb
-   * 4-UCI_CAR.ipynb
-   * 5-20newsgroups.ipynb
-   * 6-KDD_cup_2000_data_set.ipynb
+   - 1-IRIS.ipynb
+   - 2-Boston_house_dataset.ipynb
+   - 3-MNIST.ipynb
+   - 4-UCI_CAR.ipynb
+   - 5-20newsgroups.ipynb
+   - 6-KDD_cup_2000_data_set.ipynb
    * Crawling_twitter_with_python.ipynb
    * MDS_projection.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb))
    * PCA_projection.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb))
@@ -81,8 +81,6 @@ machine.
    * KNN_classification.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb))
    * Metrics.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb))
  * ### 6-Bayes-Learning
-   * 20news-bydate-test
-   * 20news-bydate-train
    * Bayes-Learning.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb)) ([20 news group](./1-Datasets_Visualization_and_preprocessing/5-20newsgroups.ipynb))
  * ### 7-Decision-Trees.ipynb ([UCI_car](./1-Datasets_Visualization_and_preprocessing/4-UCI_CAR.ipynb))
  * ### 8-Neural-Networks
