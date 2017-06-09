@@ -42,10 +42,12 @@ machine.
 - Pandas; [documentation] also as
   [pdf](http://pandas.pydata.org/pandas-docs/version/0.18.1/pandas.pdf)
 
-# Table of content
+# Table of contents
+
  * ### 0-Intro
    * Scikit-learn-overview.ipynb
    * Web Mining Project .ipynb
+
  * ### 1-Datasets_Visualization_and_preprocessing
    - 1-IRIS.ipynb
    - 2-Boston_house_dataset.ipynb
@@ -58,16 +60,19 @@ machine.
    * PCA_projection.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb))
    * scikit-learn-overview-and-preprocessing.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/2-Boston_house_dataset.ipynb))
    * VA-InformationVisualisation-with-JavaScript-and-3DJs.ipynb
+
  * ### 2-Clustering
    * Clustering_overview.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/2-Boston_house_dataset.ipynb)) ([MNIST](./1-Datasets_Visualization_and_preprocessing/3-MNIST.ipynb))
    * Tutorial_clustering_for_outlier_detection_3D.ipynb (Kddcup 1999)
    * Tutorial_clustering_for_outlier_detection.ipynb (Kddcup 1999)
+
  * ### 3-Association-Rules
    * Apriori_asaini.ipynb ([MBE_dataset](./3-Association-Rules/dataset/INTEGRATED-DATASET.csv))
    * Apriori.ipynb ([Boston house](./1-Datasets_Visualization_and_preprocessing/2-Boston_house_dataset.ipynb))
    * Apriori_server.ipynb ([Mango_dataset](./3-Association-Rules/dataset/data.csv))
    * Assignment_Association_rule_learning.ipynb
    * Tutorial_association_rule_learning_shopping_basket.ipynb (KDDcup 2000)
+
  * ### 4-Linear_regression_and_logistic_regression
    * Assignment_Linear_Regression.ipynb
    * Assignment_Logistic_regression.ipynb ([UCI_car](./1-Datasets_Visualization_and_preprocessing/4-UCI_CAR.ipynb))
@@ -77,19 +82,31 @@ machine.
    * Logistic_regression.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb))
    * Small_scale_linear_regression.ipynb (KDDcup)
    * Supervised_Learning_with_Linear_Models.ipynb ([Boston house](./1-Datasets_Visualization_and_preprocessing/2-Boston_house_dataset.ipynb))
+
  * ### 5-KNN_classification
    * KNN_classification.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb))
    * Metrics.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb))
+
  * ### 6-Bayes-Learning
    * Bayes-Learning.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb)) ([20 news group](./1-Datasets_Visualization_and_preprocessing/5-20newsgroups.ipynb))
+
  * ### 7-Decision-Trees.ipynb ([UCI_car](./1-Datasets_Visualization_and_preprocessing/4-UCI_CAR.ipynb))
+
  * ### 8-Neural-Networks
    * keras-mnist.ipynb ([MNIST](./1-Datasets_Visualization_and_preprocessing/3-MNIST.ipynb))
    * Simple-NN.ipynb (make_moons)
    * Stacked-Denoising-Autoencoders.ipynb
+
  * ### 9-SVM
    * Assignment_SVM_for_OCR.ipynb ([MNIST](./1-Datasets_Visualization_and_preprocessing/3-MNIST.ipynb))
    * Support_Vector_Machines.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb))
+
  * ### A-Advanced_modules
    * NLP-with-NLTK-Short-Intro.ipynb
+
  * ### B-Scripts
+
+# Links
+
+- [cheat sheets for machine
+  learning](https://github.com/kailashahirwar/cheatsheets-ai)y
