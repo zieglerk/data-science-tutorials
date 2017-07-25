@@ -109,4 +109,4 @@ machine.
 # Links
 
 - [cheat sheets for machine
-  learning](https://github.com/kailashahirwar/cheatsheets-ai)y
+  learning](https://github.com/kailashahirwar/cheatsheets-ai)
