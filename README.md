@@ -2,7 +2,7 @@
 
 <!-- 4.[Unsupervised Learning: Projections and Manifolds](./3-Association-Rules/Apriori_server.ipynb)
  -->
- 
+
 This repository contains jupyter-notebooks to accompany the tutorials for our data science lectures. The following topics are covered (each within a separate folder).
 
 1. Dataset Visualization (Boston Housing minus the linear regression;
@@ -10,7 +10,7 @@ also other datasets like Flower, MNIST-digits, 20newsgroups) working/visualizing
 2. Clustering
 3. Association Rule Learning (dataset yet to be determined; preferably from scikit learn)
 4. Regression (linear regression from Boston Housing and Car Prices)
-5. Bayes Learning (for spam filtering/text classification) 
+5. Bayes Learning (for spam filtering/text classification)
 6. Classification with Decision Trees (start with small 5-line dataset)
 7. Neural Networks (use keras.io to build a neural network for
 MNIST-digit classification) keras (for MNIST class); OPT gensim (for
@@ -110,3 +110,9 @@ machine.
 
 - [cheat sheets for machine
   learning](https://github.com/kailashahirwar/cheatsheets-ai)
+-
+  [Resources for TensorFlow](https://github.com/astorfi/tensorflow-world)
+-
+  [Cheat Sheet of Machine Learning and Python (and Math) Cheat Sheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
+-
+  [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
