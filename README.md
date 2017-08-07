@@ -96,6 +96,12 @@ machine.
    * keras-mnist.ipynb ([MNIST](./1-Datasets_Visualization_and_preprocessing/3-MNIST.ipynb))
    * Simple-NN.ipynb (make_moons)
    * Stacked-Denoising-Autoencoders.ipynb
+   * INFO [Software Comparison](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software)
+     - keras.io (high-level, running on top of TensorFlow (default) or
+       Theano) c/o Francois Chollet (written in Python)
+	 - Theano c/o Universite de Montreal (written in Python; tightly
+       integrated with NumPy)
+	 - TensorFlow c/o Google Brain (written in Python/C++)
 
  * ### 9-SVM
    * Assignment_SVM_for_OCR.ipynb ([MNIST](./1-Datasets_Visualization_and_preprocessing/3-MNIST.ipynb))
