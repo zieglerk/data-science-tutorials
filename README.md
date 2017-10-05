@@ -60,6 +60,8 @@ machine.
    * PCA_projection.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/1-IRIS.ipynb))
    * scikit-learn-overview-and-preprocessing.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/2-Boston_house_dataset.ipynb))
    * VA-InformationVisualisation-with-JavaScript-and-3DJs.ipynb
+   * TODO try visualization with [Orange](https://orange.biolab.si/)
+     (available through the conda-forge channel)
 
  * ### 2-Clustering
    * Clustering_overview.ipynb ([IRIS](./1-Datasets_Visualization_and_preprocessing/2-Boston_house_dataset.ipynb)) ([MNIST](./1-Datasets_Visualization_and_preprocessing/3-MNIST.ipynb))
@@ -114,11 +116,22 @@ machine.
 
 # Links
 
+## Cheat Sheets
+
 - [cheat sheets for machine
   learning](https://github.com/kailashahirwar/cheatsheets-ai)
--
-  [Resources for TensorFlow](https://github.com/astorfi/tensorflow-world)
 -
   [Cheat Sheet of Machine Learning and Python (and Math) Cheat Sheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
 -
   [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
+
+## Other Collections
+
+- large repository of
+  [Data Science Python Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+
+## Module Specific
+(should be listed at the module)
+
+-
+  [Tutorials for TensorFlow](https://github.com/astorfi/tensorflow-world)
