@@ -116,6 +116,8 @@ machine.
 
 # Links
 
+- Python for Science and Machine Learning: [Reading List](https://www.linuxjournal.com/content/weekend-reading-using-python-science-and-machine-learning)
+
 ## Cheat Sheets
 
 - [cheat sheets for machine
