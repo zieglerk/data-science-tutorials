@@ -13,9 +13,10 @@ also other datasets like Flower, MNIST-digits, 20newsgroups) working/visualizing
 5. Bayes Learning (for spam filtering/text classification)
 6. Classification with Decision Trees (start with small 5-line dataset)
 7. Neural Networks (use keras.io to build a neural network for
-MNIST-digit classification) keras (for MNIST class); OPT gensim (for
-	word2vec; pick dataset from tensorflow); then auto-encoder for
-	representatino learning
+MNIST-digit classification; here's a
+[tutorial](https://elitedatascience.com/keras-tutorial-deep-learning-in-python));
+OPT use gensim (for word2vec; pick dataset from tensorflow); then
+auto-encoder for representatino learning
 8. OPTIONAL MapReduce
 
 # Packages
