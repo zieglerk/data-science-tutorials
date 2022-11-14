@@ -3,6 +3,8 @@
 <!-- 4.[Unsupervised Learning: Projections and Manifolds](./3-Association-Rules/Apriori_server.ipynb)
  -->
 
+TODO cluster by tasks (instead of algorithms)
+
 This repository contains jupyter-notebooks to accompany the tutorials for our data science lectures. The following topics are covered (each within a separate folder).
 
 1. Dataset Visualization (Boston Housing minus the linear regression;
@@ -21,6 +23,9 @@ auto-encoder for representatino learning
 
 # Packages
 
+The main packages are pandas & scikit-learn
+
+
 See our [python-tutorials](https://github.com/zieglerk/python-tutorials) on instructions how to set this up on your
 machine.
 
@@ -37,9 +42,6 @@ machine.
   Start](http://scikit-learn.org/stable/tutorial/basic/tutorial.html) and
   [Tutorials](http://scikit-learn.org/stable/tutorial/)
 - Matplotlib >= 2.1.1
-
-## optional
-
 - Pandas; [documentation] also as
   [pdf](http://pandas.pydata.org/pandas-docs/version/0.18.1/pandas.pdf)
 
