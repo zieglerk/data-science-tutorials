@@ -133,7 +133,9 @@ machine.
 ## Other Collections
 
 - large repository of
-  [Data Science Python Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+  [Data Science Python
+  Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+- TODO compare to Christin Seifert's https://github.com/chseifert/tutorials/tree/master/data-science
 
 ## Module Specific
 (should be listed at the module)
